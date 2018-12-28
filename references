@@ -1,0 +1,12 @@
+1.多层lstm结构图
+https://blog.csdn.net/jerr__y/article/details/61195257
+2.多层双向lstm
+https://blog.csdn.net/u012436149/article/details/71080601
+3.1 attention机制综述
+https://blog.csdn.net/yimingsilence/article/details/79208092
+3.2 attention机制案例
+https://zhuanlan.zhihu.com/p/33063763
+4. seq2seq and attention 入门并在tensorflow中使用
+https://blog.csdn.net/ilikede/article/details/81035889
+5.seq2seq中的beam search算法过程
+https://zhuanlan.zhihu.com/p/28048246
