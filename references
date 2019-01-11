@@ -25,3 +25,12 @@ https://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&mid=2247499610&idx=2&sn=fb3de3
 ============== 对话机器人
 1. 微软小冰
 https://mp.weixin.qq.com/s/wBsh9dmMPks04X2pDB8Ang
+
+
+================
+1.这个是github地址上面有源码和使用说明，包括需要的数据集
+https://github.com/Kyubyong/transformer/
+2.机器翻译模型Transformer代码详细解析（这个是别人写的博客，就是对github上的做了一些翻译和说明）
+https://blog.csdn.net/mijiaoxiaosan/article/details/74909076
+3.关于transformer模型总结（源码）
+https://blog.csdn.net/yiyele/article/details/81913031
